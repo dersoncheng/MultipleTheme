@@ -1,0 +1,36 @@
+<derson.com.multipletheme.colorUi.widget.ColorRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/main_bg"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <derson.com.multipletheme.colorUi.widget.ColorTextView
+        android:textColor="?attr/main_textcolor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+    <derson.com.multipletheme.colorUi.widget.ColorButton
+        android:id="@+id/btn"
+        android:text="换肤"
+        android:layout_centerInParent="true"
+        android:textColor="?attr/main_textcolor"
+        android:layout_width="100dip"
+        android:layout_height="80dip" />
+
+    <derson.com.multipletheme.colorUi.widget.ColorButton
+        android:id="@+id/btn_2"
+        android:layout_centerHorizontal="true"
+        android:text="下一页"
+        android:layout_below="@id/btn"
+        android:layout_marginTop="30dip"
+        android:textColor="?attr/main_textcolor"
+        android:layout_width="100dip"
+        android:layout_height="80dip" />
+
+</derson.com.multipletheme.colorUi.widget.ColorRelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="theme_1" >
+        <item name="main_bg">@color/bg_main_normal</item>
+        <item name="main_textcolor">@color/textcolor_main_normal</item>
+        <item name="second_bg">@color/bg_second_normal</item>
+        <item name="second_textcolor">@color/textcolor_second_normal</item>
+    </style>
+
+    <style name="theme_2">
+        <item name="main_bg">@color/bg_main_dark</item>
+        <item name="main_textcolor">@color/textcolor_main_dark</item>
+        <item name="second_bg">@color/bg_second_dark</item>
+        <item name="second_textcolor">@color/textcolor_second_dark</item>
+    </style>
+</resources>
