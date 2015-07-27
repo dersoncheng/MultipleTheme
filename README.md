@@ -6,3 +6,7 @@ MultipleTheme
 -----------------------------------
 This framework of Android app support multiple theme(such as day/night mode) and needn’t finish current application or current activity.
 -----------------------------------
+###
+Setup 1:declare attribute in attr.xml
+###
+![github](https://github.com/dersoncheng/MultipleTheme/blob/master/source/setup1.png "github") 
