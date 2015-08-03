@@ -15,7 +15,7 @@ Setup 1:declare attribute in attr.xml
 ###
 第二步：在项目的style.xml指定各种模式主题下的自定义属性值
 ###
-Setup 1:declare attribute in style.xml
+Setup 2:declare attribute in style.xml
 ###
 ![github](https://github.com/dersoncheng/MultipleTheme/blob/master/source/setup2.png "github") 
 ###
